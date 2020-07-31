@@ -7,7 +7,7 @@ class ArtDataGenerator:
         self.func = func
 
     def get_data_with_noise(self, data_number):
-
+        np.random.seed(0)
         data_x = (max(self.data_range) - min(self.data_range)) * np.random.rand(data_number) + min(self.data_range)
         data_y = self.func(data_x) + np.random.randn(data_number)
 
