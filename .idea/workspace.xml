@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="080d7d1b-d8ab-4040-b7a3-c537ff15566e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArtificialDataGenerator.py" afterDir="false" />
+    </list>
+=======
     <list default="true" id="080d7d1b-d8ab-4040-b7a3-c537ff15566e" name="Default Changelist" comment="" />
+>>>>>>> 9768251d217cb2b940b652e6dd312a0c07ac785c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +48,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state x="142" y="26" key="SettingsEditor" timestamp="1596196264265">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="26" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1596196264265" />
+=======
     <state x="142" y="26" key="SettingsEditor" timestamp="1596197538022">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="142" y="26" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1596197538022" />
+>>>>>>> 9768251d217cb2b940b652e6dd312a0c07ac785c
   </component>
 </project>
