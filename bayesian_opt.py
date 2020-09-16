@@ -1,6 +1,6 @@
 import numpy as np
 
-from ArtificialDataGenerator import ArtDataGenerator
+from DataGenerator import ArtDataGenerator
 
 
 def main():
